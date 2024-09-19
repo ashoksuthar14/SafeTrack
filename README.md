@@ -39,7 +39,22 @@ This project is focused on using **acoustic wave analysis** and **computer visio
   - Scikit-learn
   - Matplotlib
 
-### Clone the Repository:
-```bash
-git clone https://github.com/yourusername/railway-defect-detection.git
-cd railway-defect-detection
+
+
+## Results
+
+### Sample Images
+Below are sample results where the model successfully detected cracks in the railway track.
+
+![Railway Track with Crack](https://github.com/yourusername/yourrepository/raw/main/crack-detection.png)
+
+---
+
+### Acoustic Analysis
+The graph below shows how the acoustic signal changes when a defect is present:
+
+![Acoustic Signal Graph](https://github.com/yourusername/yourrepository/raw/main/acoustic-analysis.png)
+
+
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
