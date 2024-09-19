@@ -46,15 +46,15 @@ This project is focused on using **acoustic wave analysis** and **computer visio
 ### Sample Images
 Below are sample results where the model successfully detected cracks in the railway track.
 
-![Railway Track with Crack](https://github.com/yourusername/yourrepository/raw/main/crack-detection.png)
+![Railway Track with Crack](https://github.com/ashoksuthar14/SafeTrack/blob/main/Safegaurdimg.jpg)
 
 ---
 
-### Acoustic Analysis
+### QR Code
 The graph below shows how the acoustic signal changes when a defect is present:
 
-![Acoustic Signal Graph](https://github.com/yourusername/yourrepository/raw/main/acoustic-analysis.png)
+![Acoustic Signal Graph](https://github.com/ashoksuthar14/SafeTrack/blob/main/QR%20code.jpg)
 
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 
